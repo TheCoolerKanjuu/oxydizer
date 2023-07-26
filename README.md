@@ -108,7 +108,7 @@ Distributed under the Affero GNU General Public License v3.0 License. See `LICEN
 [repo-address]: https://github.com/TheCoolerKanjuu/oxydizer/issues
 
 [contributors-shield]: https://img.shields.io/github/contributors/TheCoolerKanjuu/oxydizer.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/TheCoolerKanjuu/oxydizer/contributors
+[contributors-url]: https://github.com/TheCoolerKanjuu/oxydizer/contributors
 
 [forks-shield]: https://img.shields.io/github/forks/TheCoolerKanjuu/oxydizer.svg?style=for-the-badge
 [forks-url]: https://github.com/TheCoolerKanjuu/oxydizer/network/members
